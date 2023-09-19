@@ -1,0 +1,13 @@
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: #fff !important;
+  font-weight: 350;
+}
+.seventhdiv {
+  color: #76c582;
+}
+
+.sevendiv {
+  color: #fff;
+}
+
